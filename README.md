@@ -9,7 +9,7 @@ An analysis of exam results in Dutch secondary education by migration background
 - [x] Data downloaded and cleaned
 - [x] SQL analysis (5 questions)
 - [x] Python analysis
-- [ ] Excel workbook
+- [x] Excel workbook
 - [ ] Tableau dashboard
 - [ ] Findings and conclusions
 
